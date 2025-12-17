@@ -1,6 +1,6 @@
 # MyTNB Energy Data Downloader
 
-An automated Python script using Playwright to securely log into the MyTNB portal and download daily and monthly electricity usage data into organized CSV files.
+An automated Python script using Playwright to securely log into the MyTNB portal and download daily and monthly electricity usage data into organized CSV files. Everything was coded by Gemini, I only did the troubleshooting and providing values.
 
 ## 🌟 Features
 
