@@ -30,7 +30,7 @@ You must have the following installed on your system:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/ixanza/MYTnBSmartMeterUsageDownloader
+    git clone https://github.com/ixanza/MyTNBUsageDownloader
     cd MYTnBSmartMeterUsageDownloader
     ```
 
